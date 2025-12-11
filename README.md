@@ -3,7 +3,8 @@
 ![Tests](https://github.com/WoWs-Builder-Team/minimap_renderer/actions/workflows/tests.yml/badge.svg)
 
 手动更新minimap_renderer至最新版本，更新速度可能会比官方快
-Manually update minimap_denderer to the latest version, the update speed may be faster than the official version
+
+Manually update minimap_renderer to the latest version, the update speed may be faster than the official version
 
 Minimap Renderer parses World of Warships replays to create a timelapse video that resembles the in-game minimap.
 
